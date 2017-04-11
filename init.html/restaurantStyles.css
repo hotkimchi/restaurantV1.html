@@ -1,0 +1,30 @@
+footer {
+    font-style: italic;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+span.linkSpace {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+}
+.centerImage {
+    text-align: center;
+    display: block;
+}
+.funFont {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+th {
+    font-size: x-large;
+}
+body {
+    background-color:beige;
+}
+#homeColor {
+    background-color: peachpuff;
+}
