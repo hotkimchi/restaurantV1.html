@@ -10,7 +10,18 @@ span.linkSpace {
     margin-right: 10px;
 }
 a {
-    text-decoration: none;
+    color:skyblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+a:visited {
+    color:orangered;
+}
+a:hover {
+    font-weight:bold;
+}
+a:active {
+   text-decoration: none; 
 }
 .centerImage {
     text-align: center;
